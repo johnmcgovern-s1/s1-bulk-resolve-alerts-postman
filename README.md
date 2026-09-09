@@ -55,3 +55,7 @@ The runner will keep cycling through `getAlertIds → resolveAlertBatch` until t
 - Status → **Resolved**
 - Analyst verdict → **False Positive – User Error**
 - Adds a note: *"Alert bulk closed while addressing False Positives related to Over Pass-The-Hash attacks. Exclusions have been added for the False Positives and this alert will regenerate on next attempt."*
+
+## License
+
+MIT — see [LICENSE.md](LICENSE.md).
